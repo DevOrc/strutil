@@ -2,5 +2,8 @@
 name = "strutil"
 version = "0.0.1"
 authors = ["DevOrc <ncharlton002@gmail.com>"]
+description = "Basic string utilities"
+license = "MIT"
+readme = "README.md"
 
 [dependencies]
